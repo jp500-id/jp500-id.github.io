@@ -107,6 +107,7 @@
 <link rel="preload" as="image" href="https://s13.gifyu.com/images/bqMXo.png">
 
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+<meta name="google-site-verification" content="3hLuSAmaedeHCMnx75izp9Pd_gaDGrjKTHUOBXo8B-E" />
 <meta name="google-site-verification" content="ZABSGX9z-QPuUUOeZxQJ8KIX9RvSezrrz_vBqsrqeuQ" />
 
 <link rel="canonical" href="https://jp500-id.github.io/" />
